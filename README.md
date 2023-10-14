@@ -19,7 +19,7 @@ Detailed description of the purpose of the code will be explained in the Report.
 ## Content
 
 1. [Report](./Research%20synopsis%20(for%20GitHub%20repo).pdf) - detailed explanation on the design of the code, theory behind and the result 
-2. [My juyter notebook](./SRF_Ising_model_updated.ipynb) - where all my code stored 
+2. [My jupyter notebook](./SRF_Ising_model_updated.ipynb) - where all my code stored 
 
 ## How to Install and Run the code
 
