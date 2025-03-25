@@ -29,7 +29,7 @@ You can also using uploading the code to Google drive and run it in Google Colab
 
 ## Libraries 
 1. numpy 
-2. ccipy 
+2. scipy 
 3. matplotlib 
 4. pandas 
 
